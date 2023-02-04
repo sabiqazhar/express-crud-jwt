@@ -1,9 +1,5 @@
 
-# REST API Todo list
-
-this is fullstack project, for the FE you can check link this bellow
-
-[frontend](https://github.com/sabiqazhar/frontend-Todo)
+# REST API Todo list with JWT
 
 In this backend project, we use tech stacks:
 - NodeJS
